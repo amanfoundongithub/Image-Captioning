@@ -1,0 +1,8 @@
+__pycache__/
+
+archive/
+
+image_caption_model.pt 
+
+vocabulary.pkl 
+
